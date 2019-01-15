@@ -1,8 +1,12 @@
 name = "Josh"
 
-num_of_attendees = 257
+def introduction(name)
+  puts "Hi, my name is #{name}."
+end
 
 
 language = "Ruby"
 
-num_of_attendees = 257
+def introduction(name)
+  puts "Hi, my name is #{name}."
+end
