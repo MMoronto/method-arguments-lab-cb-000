@@ -1,8 +1,8 @@
 name = "Josh"
 
-def introduction(name)
-  puts "Hi, my name is #{name}."
-end  
+num_of_attendees = 257
 
 
 language = "Ruby"
+
+num_of_attendees = 257
